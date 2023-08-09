@@ -7,7 +7,7 @@ I'm a passionate and versatile full stack developer with a strong foundation in 
 ## Skills
 
 - **Front-end**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: Angular
+- **Frameworks**: Angular, jQuery, NodeJs
 - **Back-end**: C#, .NET Core, Java, Spring Boot
 
 ## What I Do
@@ -26,8 +26,8 @@ Here are a few projects that showcase my skills:
 
 ## Contact Me
 
-I'm always open to collaboration and exciting new projects. If you're interested in working together or have any questions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+I'm always open to collaboration and exciting new projects. If you're interested in working together or have any questions, feel free to reach out to me at [darshankhairnar72@gmail.com](mailto:darshankhairnar72@gmail.com).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) for more updates on my work and projects.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/darshankhairnar72) for more updates on my work and projects.
 
 Let's code something amazing together!
